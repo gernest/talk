@@ -61,6 +61,15 @@ equipments. So, If you lend me now, what will happen in the coming years wont
 matter coz I will  have no regrets. I will code like crazy, all the ideas that
 are floating in my mind.
 
+I know If I see good doctors they will fix this, but I dont know when that will
+happen. I plan to work very very hard to the best of my ability. To earn enough
+to pay for my treatment, but I cant do that right now. The only source of work
+is remote jobs, and heck I need to have a good computer for that. 
+
+I know exposing this might be a risk for me to get jobs in the future, but you
+deserve to know the truth , so let me worry about the future. Glory for a broken
+man is bullshit, I want to live and I will do my best to fix my problems.
+
 # There is no future, please let me try to create one
 
 I have no future here, to begin with I have no luck too. After publishing
@@ -72,15 +81,6 @@ to live in. I have so much going on in my head, like ways to help revamp
 industries in my country. But I need a starting point, I need to earn a living
 first and thats why I am asking you just to let me try, it is not about winning,
 rather its about not giving a shit and giving it a try.
-
-# To whom it might concern
-
-This is for anyone who thinks Im kind of a fraud, or anyone who interprets
-different what I have written because he/she think she knows so much or
-understand everything.
-
-I have a message for you, "You dont know shit, about what it feels like to be
-born and raised to fail".
 
 # Summing up
 
