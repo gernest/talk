@@ -91,5 +91,5 @@ to be independent), but I dont have a choice. My last visit to the eye doctor( l
 week) messed me up, and I dont know what else to do rather than do one thing that
 I love to do before hell breaks loose.
 
-My nage is Geofrey Ernest, from Mwanza, Tanzania. On twitter I use
-[@gernesti](https://github.com/gernest/utro://twitter.com/gernesti)
+My name is Geofrey Ernest, from Mwanza, Tanzania. On twitter I use
+[@gernesti](https://twitter.com/gernesti)
