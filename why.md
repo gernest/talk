@@ -1,4 +1,4 @@
-# I need to borrow your spare computer for 2016, this is the reasons why!
+# Why you should borrow me your spare computer for 2016?
 
 To be sure that this text is relevant to you, [This is my GitHub
 account](https://github.com/gernest). I have been programming for a while, I
