@@ -31,7 +31,7 @@ highlighted.
 you dont feel like it is worthy to add another dependency 
 to get the that short code snippet highlighted.
 
- * For the sake of knowledge( why not?).
+* For the sake of knowledge( why not?).
 
 
 After saying that, I would like to introduce to you
