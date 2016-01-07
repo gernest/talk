@@ -126,7 +126,7 @@ they are taken from the [code-pretttify
 themes](https://rawgit.com/google/code-prettify/master/styles/index.html)
 
 
-__Themes in action__
+__Themes Demo( of this document rendered with frontman)__
 
 * [Deault](http://gernest.github.io/frontman/highlight/prettify.html)
 * [Desert](http://gernest.github.io/frontman/highlight/desert.html)
