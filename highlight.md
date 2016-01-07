@@ -50,8 +50,8 @@ Install the package as follows
 # Example
 
 You can render this document into html with zero dependency and
-beautiful syntax highlighting, the example code is
-included in this respository.
+beautiful syntax highlighting, [the example code is
+included in this respository](code/highlight.go).
 
 You can also see the results in the themes section below after applying
 different themes that are shipped with the
@@ -108,7 +108,7 @@ $ git clone git@github.com:gernest/talk.git
 
 $ cd talk
 
-$ go run code/hithlight.go  -f highlight.md
+$ go run code/highlight.go  -f highlight.md
 
 $ sensible-browser index.html
 ```
@@ -117,7 +117,7 @@ In case you want to play with the example code. You can see all the available
 oprions via
 
 ```shell
-$ go run code/hithlight.go -help
+$ go run code/highlight.go -help
 ```
 
 # Themes
