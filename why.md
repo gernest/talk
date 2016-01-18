@@ -1,5 +1,8 @@
 # Why you should borrow me your spare computer for 2016?
 
+__UPDATE__: This plea has officially been closed, I leave it  here for
+historical purposes. For more information see [this post](https://redd.it/41cl3w)
+
 To be sure that this text is relevant to you, [This is my GitHub
 account](https://github.com/gernest). I have been programming for a while, I
 maintain a [Golang web framework](https://github.com/gernest/utron) , a couple of
