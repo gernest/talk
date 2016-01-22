@@ -14,11 +14,11 @@ Twitter           | [@gernesti](https://twitter.com/gernesti)
 
 __ANSWER__:
 
-I am a self taught software developer based in Tanzania.
+I am a software developer based in Tanzania.
  I have been doing Golang development for two years now.
 
-I like works of fiction, I like to imagine things thats why I have so much fun
-when I stare at my computer.
+I like works of fiction, I like to imagine things thats why I love programming.
+It empowers me to conjure my imagination.
 
 I am the author of a couple of interesting golang
 projects.[utron](https://github.com/gernest/utron) is one of
