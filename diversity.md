@@ -34,8 +34,9 @@ time frame of one week to hack on each language and after the two weeks I picked
 up Golang.
 
 Learning Golang was a long process, as I got to learn more about programming
-along the way. I spend a lot of my time reading Code made by fellow Golang
-programmers, and the standard library was my library.
+along the way. I spend a lot of my time reading code made by fellow Golang
+programmers, and the standard library was/is my library(where I chill and enjoy
+ to see how some myths are demystified).
 
 The compiler is fast, so I was able to experiment while learning new concepts
 very fast. It took me one week to be convinced that Golang was the language I was
@@ -61,15 +62,22 @@ and this is like heaven sent. It has helped me alot, and I prefer to read the
 code than writing one. The Golang standard library is  full of treasures and
 `godoc` is the magical shovel to unveil the treasure.
 
-## What advice or action that you would give or see to help foster diversity in
-Golang community worldwide?
+## What advice or action that you would give or see to help foster diversity in Golang community worldwide?
+
+I would like to see Golang picked as an introduction language to programming. It
+is very easy to express computer science concepts with Go.
+
+Through  events, and tapping of the groups that have no priviledge of having to
+choose what to learn( Yup, like in my country Tanzania).
 
 Well, I don't think I have good answer for this, in my country(Tanzania), I
-haven't met or heard about any golang developer or  any project using Golang.
+haven't met or heard about any Golang developer or  any project using Golang in
+Tanzania( excpet mine of course, if you know any I will be happy to correct
+this).
 
-The reason I prefer to keep writing good projects rather than writing blogposts
+The reason I prefer to keep writing Golang projects 
 is just to convince whoever doubts that Golang is ready that Golang is ready and
-It can help solve some of their problems(Our problems in my country).
+It can help  businesses any individuals solve different problems.
 
 I tried to Go through shops that do web development in my city( Mwanza ), and
 the reaction was heart breaking. First they though I was a complete fraud,
@@ -81,7 +89,7 @@ showing them how good  Golang can be.Maybe in the future when Im very good
 in Golang( well good enough for someone to think I  am good) I will start to write
 about Golang in my local language( Swahuili).
 
-## What are your advice to newcomers to Golang?
+##Qn 5:  What are your advice to newcomers to Golang?
 
 __ANSWER__:
 
