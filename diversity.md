@@ -24,7 +24,7 @@ I am the author of a couple of interesting golang
 projects.[utron](https://github.com/gernest/utron) is one of
 my creation , I love the way I was able to compose it with Golang, it is beautiful.
 
-## QN 2: Can you briefly tell us about how you got to learn and use Golang
+## Qn 2: Can you briefly tell us about how you got to learn and use Golang
 
 __ANSWER__:
 
@@ -33,6 +33,13 @@ concurrency. The options at that time was either erlang or golang so I set a
 time frame of one week to hack on each language and after the two weeks I picked
 up Golang.
 
+Learning Golang was a long process, as I got to learn more about programming
+along the way. I spend a lot of my time reading Code made by fellow Golang
+programmers, and the standard library was my library.
+
+The compiler is fast, so I was able to experiment while learning new concepts
+very fast. It took me one week to be convinced that Golang was the language I was
+missing.
 
 ## Qn 3 Which feature(s) that you like the most in Golang?
 
