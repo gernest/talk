@@ -5,7 +5,6 @@ item              | details
 ------------------|--------------------------------
 Name              | Geofrey Ernest
 Job               | Programmeer
-Company           | None
 Github            | https://github.com/gernest
 Twitter           | [@gernesti](https://twitter.com/gernesti)
 
