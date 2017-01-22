@@ -93,6 +93,7 @@ type Engine struct {
 See the now func? Yeah, if you go on and change it, only the functions that will be applied with this engine will be affected. There is more into this story, and It is still a work in progress, so a lot of room for improvement
 
 ## Fix project structure
+
 ```
 .
 ├── builder
@@ -136,10 +137,9 @@ See the now func? Yeah, if you go on and change it, only the functions that will
 ├── README.md
 ├── examples_test.go
 ├── ngorm.go
-├── ngorm_test.go
-└── txt
+└── ngorm_test.go
 
-13 directories, 30 files
+13 directories, 29 files
 ```
 
 ## Fix execution model
